@@ -31,6 +31,8 @@ print(type(str(21.9)))    #float to string
 print(type(float("21")))  #string to float
 print(type(int("21")))    #string to int
 print(type(int(21.9)))    #float to int 
-
-#??//kal ham na local computer pr hi add kiya tah  or create directory ki thi us sa yani 
-# git hub mn to koi changev nhi aya tah naw?
+print("-----------------------------")
+x=input("Enter first number : ")
+y=input("Enter second number : ")
+print("These are string concatinate : ",x+y)
+print("Type cast into the integer : ",int (x)+int(y))
