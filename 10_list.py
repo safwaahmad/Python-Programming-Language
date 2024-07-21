@@ -22,4 +22,7 @@ nested_list[0]="java"
 print(nested_list)
 print(nested_list[0]=="python") 
 print("-------------------------------")
+#add string to list
+name = " safwan"  #string
+
 
