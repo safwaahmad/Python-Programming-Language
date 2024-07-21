@@ -41,3 +41,9 @@ print(str3)
 print(len(str3))
 #string concationation 
 print(str1 + str2)
+print("--------------------------")
+#membership opreator--(in/not in)
+
+print("p" in "pakistan")
+print("m" in "pakistan")
+
