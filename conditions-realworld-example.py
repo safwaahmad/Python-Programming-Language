@@ -10,4 +10,16 @@ if (AvverageMarks <= 50):
     print("The student failed the exam")
 else:
     print("The student passed the exam")
-    
+print("---------------------------------")
+
+#A company is looking to hire a typist with writing speed more than 80 word per minute. They asked from you to design a program that’s allows the candidates to enter their typing speed. If their typing speed above 80, their will display to the user that he passed the first interview and that company will contact him later for the second interview. If speed 80 or less then inform him that the company looking only for typist with writing above 80 WPM.
+speed = int (input("Enter your tyoing speed : "))
+if (speed>=80):
+    print("You passed the first interview and that company will contact him later for the second interview")
+else:
+    print("Company looking only for typist with writing above 80 WPM.")   
+print("-----------------------------------------")
+#Design a program that converts student score into grades (A,B,C,D, and failed)
+
+
+ 
