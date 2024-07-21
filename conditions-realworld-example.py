@@ -20,6 +20,13 @@ else:
     print("Company looking only for typist with writing above 80 WPM.")   
 print("-----------------------------------------")
 #Design a program that converts student score into grades (A,B,C,D, and failed)
-
-
+marks=int(input("Enter your marks :"))
+if (marks>=90):
+    print("You Got A+ Grade")
+elif(marks>=80):
+    print("You got B Grade")
+elif(marks>=60):
+    print("You got C Garde")
+else:
+    print("Congrats; You got D Grade! You are fail")
  
