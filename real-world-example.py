@@ -2,4 +2,4 @@
 discount = 50/100
 orignal= int(input("Enter the value :"))
 sales=orignal*discount
-print("The discounted price is:",int(sales),sep='$')
+print("The discounted price is:",int(sales),sep='$') #SERPRARION
