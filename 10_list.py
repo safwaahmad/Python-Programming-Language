@@ -23,6 +23,11 @@ print(nested_list)
 print(nested_list[0]=="python") 
 print("-------------------------------")
 #add string to list
-name = " safwan"  #string
+name = "safwan"  #string
+print(list(name)) #list
+line=["a",1,"b",2]#list
+print(list(name)+line) # concatinating two list
 
+str = "Hello"
+print(id(str))
 
