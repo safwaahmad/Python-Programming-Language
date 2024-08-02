@@ -1,6 +1,6 @@
 
-name = "ahmad"
-age = "30"
+name = "safwa"
+age = "20"
 str ="my name is {} of age {}"
 
 print(str.format(name,age))
