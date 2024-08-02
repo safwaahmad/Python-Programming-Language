@@ -11,21 +11,21 @@ print(name[2:6])
 print(name[0:-4])
 print(name[0:len(name)-1])
  
-print("-------------------------")
+print("------------MUTETIBILTY-------------")
 ######---MUTETIBILTY-------------
-a ="safwan  !!! "
+a ="safwan ahmad  !!! "
 print(len(a))
 print(a.find("safwan"))
 print(a.capitalize())
 print(a.lower())
 print(a.upper())
 print(a.rstrip("!"))  # strinp-finish last repating latter
-print(a.replace("safwan", "ahmad")) # replace name
+print(a.replace("safwan","ahmad")) # replace name
 print(a.split("_")) #split for spaceing place in list
 print(len(a.center(50)) )
 print(len(a)) #to center
 print(a.count("!")) # to count repeating letter
-print(a.find("f"))
+print(a.find("f")) # give index to find
 print(a.index("f"))
 str= "nationalpakistan"
 ch=str[0]
