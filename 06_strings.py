@@ -32,7 +32,9 @@ str= "nationalpakistan"
 ch=str[0]
 print(str[1:4])  #slicing index # starting index or ending index
 str.endswith("an")
-
+print("Print your reversed name")
+revser_name = " safwanahmadsaffi"
+print(revser_name[::-1])
 print("-------------------------")
 #adding  two strings 
 str1 = "safwan"
