@@ -1,4 +1,6 @@
 print(1,2,3 ,sep='-sepration')
+number : int = 23
+print(number)
 
 print("Variables")
 x = 4       # x is of type int
