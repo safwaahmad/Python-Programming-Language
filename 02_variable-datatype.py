@@ -1,3 +1,5 @@
+print(1,2,3 ,sep='-sepration')
+
 print("Variables")
 x = 4       # x is of type int
 x = "Sally" # x is now of type str
@@ -34,5 +36,8 @@ print("Display the tuple")
 print((1,2,3,4,5))
 print(type((1,2,3,4,5)))
 print("Display the sets")
+print({1,2,3,4,5})
+print(type({1,2,3,4,5}))
 print("Display the distnory")
-
+print(({'name':['safwan','ahad','ali'],'class':['12','11','10']}))
+print(type({'name':['safwan','ahad','ali'],'class':['12','11','10']}))
