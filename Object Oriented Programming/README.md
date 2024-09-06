@@ -2,10 +2,10 @@
 
 ## Programming Paradimes
 
-## Procedural Programming
+#### Procedural Programming
 Top Down ->Sequence line to line 
-## Funcational Programming
+#### Funcational Programming
 Section on Function ->calling and using anywhere in programme>
-## Object Oriented Programming
+#### Object Oriented Programming
 Dealing with Classes ->Class-Object-Functions
 
