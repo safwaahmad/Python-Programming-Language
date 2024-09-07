@@ -14,7 +14,7 @@ It is used in web development, data science and artificial intelligence and auto
 
 *   Can be treated in a procedural way, object oriented way and fuctional way
 
-## **Comment**
+# **Comment**
 Comments can be used to explain Python code.
 
 Comments can be used to make the code more readable.
@@ -22,7 +22,7 @@ Comments can be used to make the code more readable.
 Comments can be used to prevent execution when testing code.
 
 
-2 types of comments in Python:
+### 2 types of comments in Python:
 
 
 *   Single line comment #
