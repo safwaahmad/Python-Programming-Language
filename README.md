@@ -19,7 +19,7 @@ It is used in web development, data science and artificial intelligence and auto
 *   Can be treated in a procedural way, object oriented way and fuctional way
 
 # **Comment**
-Code :[comment](https://github.com/safwaahmad/Python-Programming-Language/blob/main/01_comments.py)
+Code: [Comment](https://github.com/safwaahmad/Python-Programming-Language/blob/main/01_comments.py)
 
 Comments can be used to explain Python code.
 
