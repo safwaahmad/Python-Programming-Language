@@ -32,3 +32,6 @@ for num in range(2, 10):
         print("Found an even number:",num)
         continue
     print("Found an odd number:",num)
+#starting point->ending point->increment
+for i in range(0,16,4):
+    print("HELO",i)
