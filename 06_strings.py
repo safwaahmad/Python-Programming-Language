@@ -10,7 +10,7 @@ print(name[1:6])
 print(name[2:6])
 print(name[0:-4])
 print(name[0:len(name)-1])
- 
+print(" ")
 print("------------MUTETIBILTY-------------")
 ######---MUTETIBILTY-------------
 a ="safwan ahmad  !!! "
