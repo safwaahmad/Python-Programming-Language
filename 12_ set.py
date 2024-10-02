@@ -11,8 +11,3 @@ z = set()
 print(z)
 set1={1,2,3,1,"safwan","saffi",True,False,4,1,False}
 print(set1)
-
-
-
-
-
