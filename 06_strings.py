@@ -20,12 +20,12 @@ print(a.capitalize())
 print(a.lower())
 print(a.upper())
 print(a.rstrip("!"))  # strinp-finish last repating latter
-print(a.replace("safwan","ahmad")) # replace name
+print(a.replace("safwan","hassan")) # replace name
 print("--split")
 print(a.split("_")) #split for spaceing place in list
 print(len(a.center(50)) )
 print(len(a)) #to center
-print(a.count("!")) # to count repeating letter
+print("Count of '!':", a.count("!"))
 print(a.find("f")) # give index to find
 print(a.index("f"))
 str= "nationalpakistan"
@@ -49,4 +49,8 @@ print("--------------------------")
 
 print("p" in "pakistan")
 print("m" in "pakistan")
-
+print("--------------------------")
+print("--------Formate function-------")
+first_day = "sunday"
+second_day = "monday"
+print("{} First day is and second da is {}".format(first_day,second_day))
