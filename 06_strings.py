@@ -1,4 +1,4 @@
-print("---STRING SLICING-------")
+ktprint("---STRING SLICING-------")
 
 #---length of word---
 name = "safwan"
