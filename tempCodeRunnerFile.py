@@ -1,1 +1,1 @@
-monday
+print(name.extend("safwan"))
