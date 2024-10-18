@@ -1,1 +1,5 @@
-print(name.extend("safwan"))
+tuple2=([1,2,3],["safwan","ahmad","saffi"])
+print(tuple2)
+print(type(tuple2))
+print(len(tuple2))
+print(tuple2([0],[1]))
