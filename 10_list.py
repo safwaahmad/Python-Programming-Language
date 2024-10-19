@@ -1,11 +1,14 @@
-#list
+#list ----[]----paranthesis
 #list are used to store multiple iteems or attribute in single variable or entitiy
 #list it can be changeable (MUTABLE)
 #store multiple datatype
 #nested - list  
 #different data-type in same list
 ##<List is a collection which is ordered and changeable. Allows duplicate members>
+#can accept duplicate values and of any data type
 
+tuple0 = [8,22,8,"safwan"]
+print(type(tuple0))
 example = ["sunady","monday","tuesday"]
 print(example)
 print("-------------------------------")

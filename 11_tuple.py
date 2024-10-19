@@ -1,8 +1,15 @@
 #tuple is similar to list but it is imutable,can't be change
 #Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+# represented ----()------suare brackets
+#can accept duplicate values and of any data type
 
-tuple = (10,20,30)
+tuple0 = (8,22,8,"safwan")
+print(tuple0)
+tuple = (10,20,5)
 print(tuple)
+print(sorted(tuple))
+tuple0 = (8,22,8,"safwan")
+print(tuple0)
 tuple1 = (1,'a',2,'b')
 print(tuple1)
 tuple2=([1,2,3],["safwan"],["ahmad","saffi"])
