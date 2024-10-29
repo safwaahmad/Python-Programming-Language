@@ -47,8 +47,6 @@ It is used in web development, data science and artificial intelligence and auto
 *   Easy to learn
 *   Portable
 *   A lot of applications including web developing, app developing and data science
-
-
 *   Can be treated in a procedural way, object oriented way and fuctional way
 
 # **Comment**
