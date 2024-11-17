@@ -435,6 +435,7 @@ Functions allow us to create blocks of code that can be easily executed many tim
 
 There are a lot of built-in functions in python that make programming more easier and efficient.
 
+
     '''
     Prepared by Safwan
     '''
