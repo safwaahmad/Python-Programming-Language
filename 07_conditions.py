@@ -42,4 +42,3 @@ elif(marks>=60 and marks<80):
 else:
     print("You have got F grade")
     print("You are fail")
-          
