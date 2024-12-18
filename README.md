@@ -1,4 +1,4 @@
-# Table of Contents 
+  # Table of Contents 
 1. [What is a Programming Language?](#what-is-a-programming-language)
 2. [Why Python?](#why-python)
 3. [Comments](#comment)
@@ -47,8 +47,6 @@ It is used in web development, data science and artificial intelligence and auto
 *   Easy to learn
 *   Portable
 *   A lot of applications including web developing, app developing and data science
-
-
 *   Can be treated in a procedural way, object oriented way and fuctional way
 
 # **Comment**
@@ -436,6 +434,7 @@ Functions allow us to create blocks of code that can be easily executed many tim
 ### **Built-in Functions:**
 
 There are a lot of built-in functions in python that make programming more easier and efficient.
+
 
     '''
     Prepared by Safwan
